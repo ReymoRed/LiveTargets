@@ -5,7 +5,7 @@
 * [Result](#result)
 
 ## General info
-you can Chive live programs for Bug Bounty from Ravro.ir
+you can recive live programs for Bug Bounty from Ravro.ir
 	
 ## Technologies
 Project is created with:
