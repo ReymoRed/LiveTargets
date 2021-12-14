@@ -4,18 +4,25 @@
 * [Setup](#setup)
 * [Result](#result)
 
+
 ## General info
 you can recive live programs for Bug Bounty from Ravro.ir
+	
+-----------------------------------------------------------------------
 	
 ## Technologies
 Project is created with:
 * Python version: 3.9
+* requests library
+	
+-----------------------------------------------------------------------
 	
 ## Setup
 To run this module, install it locally using python3:
 
 *recommended using venv ;)
 
+1.
 ```
 python3.9 -m pip install -r requirements.txt  #install requirements
 ```
@@ -23,11 +30,12 @@ OR use this command:
 ```
 pip3 install requests
 ```
------------------------------------------------------------------------
+
+2.
 ```
 python3.9 main.py  #run it easily
 ```
-
+-----------------------------------------------------------------------
 
 ## Result:
 ```
@@ -50,3 +58,5 @@ python3.9 main.py  #run it easily
     {'realname': 'پذیرش۲۴', 'website': 'https://www.paziresh24.com', 'name': 'paziresh24'}
 ]
 ```
+-----------------------------------------------------------------------
+""" i'll see your pull requests """ ❤️
