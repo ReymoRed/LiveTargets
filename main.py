@@ -32,7 +32,6 @@ def getDetails(name):
 
 
 def main():
-	Scopes=getScopes()
 	"""
 	*** This process may take some time ****
 	_________________________________
@@ -40,6 +39,7 @@ def main():
 	- Twitter: https://twitter.com/ReymoRed
 	- Instagram: https://instagram.com/ReymoRed
 	"""
+	Scopes=getScopes()
 	urls = []
 	for item in Scopes:
 		urls.append(getDetails(item.get('name')))
