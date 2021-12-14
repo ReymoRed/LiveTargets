@@ -19,6 +19,11 @@ To run this module, install it locally using python3:
 ```
 python3.9 -m pip install -r requirements.txt  #install requirements
 ```
+OR use this command:
+```
+pip3 install requests
+```
+-----------------------------------------------------------------------
 ```
 python3.9 main.py  #run it easily
 ```
